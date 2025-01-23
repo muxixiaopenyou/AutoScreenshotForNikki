@@ -1,0 +1,2 @@
+# AutoScreenshotForNikki
+这是一个为了在无限暖暖中拍赛博星轨的自动截屏小插件
